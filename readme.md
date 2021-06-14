@@ -5,11 +5,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riannbarbosa&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
- ## 
+## 
   
-  <a href="https://www.linkedin.com/in/rian-barbosa/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/rian-barbosa/" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/riann.barbosa/" target="_blank" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     
-  ##
+ 
   
   
  
