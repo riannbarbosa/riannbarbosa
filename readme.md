@@ -19,6 +19,7 @@
   ##
   
   <a href="https://www.linkedin.com/in/rian-barbosa/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://www.instagram.com/riann.barbosa/" target="_blank"> <img img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black">
-<a href="http://riannbarbosa5@gmail.com/" target="_blank"><img img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   
+<a href="https://www.instagram.com/riann.barbosa/" target="_blank"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black">
+<a href="http://riannbarbosa5@gmail.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="cutt.ly/AboutMeIntranet" ><h2> :arrow_right: About Me Here</h2><a/> 
  
