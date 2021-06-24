@@ -8,10 +8,10 @@
  
   <a href="https://github.com/riannbarbosa/">
   <div>
-<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="riannbarbosa-javascript" >
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" alt="riannbarbosa-C">
-<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="riannbarbosa-python">
-<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="riannbarbosa-html5">
+<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="riannbarbosa-javascript" >
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" alt="riannbarbosa-C">
+<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="riannbarbosa-python">
+<img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="riannbarbosa-html5">
 <img align="right"src="https://steamuserimages-a.akamaihd.net/ugc/952958110703804387/634F53C4809E6E2234DA9CAFC0E6C4EF9733D49F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="216px" height="121.5" alt="fsociety-riannbarbosa"/ > 
     </a>
 </div>
