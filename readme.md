@@ -1,4 +1,4 @@
-# Hi i'm Rian Barbosa ! :smile:
+# Hi I'm Rian Barbosa ! :smile:
 <p>
   <a href="https://github.com/riannbarbosa/">
     
