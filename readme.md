@@ -16,11 +16,13 @@
   
   
  <div align="center">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="riannbarbosa-           javascript" >
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" alt="riannbarbosa-C">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="riannbarbosa-python">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="riannbarbosa-html5">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="35" alt="riannbarbosa-nodejs">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="25" alt="riannbarbosa-           javascript" >
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="25" alt="riannbarbosa-C">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/c.svg" height="25" alt="riannbarbosa-c++">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="riannbarbosa-python">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="25" alt="riannbarbosa-html5">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="25" alt="riannbarbosa-css">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" alt="riannbarbosa-nodejs">
   </div>
    
   ##
