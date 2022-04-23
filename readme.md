@@ -23,6 +23,7 @@
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="riannbarbosa-html5">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="30" alt="riannbarbosa-css">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="30" alt="riannbarbosa-nodejs">
+   <img align="center" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="42" alt="riannbarbosa-java">
   </div>
    
   ##
