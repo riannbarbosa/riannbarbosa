@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://github.com/riannbarbosa/">
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riannbarbosa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riannbarbosa&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riannbarbosa&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riannbarbosa&layout=compact&langs_count=8&theme=omni"/>
 </p>
   
  
