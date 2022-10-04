@@ -3,11 +3,10 @@
   ##
  - 🌱 My name's Rian Barbosa, I'm computer science student and a future software engineer from Brazil
  
- 
 <p align="center">
   <a href="https://github.com/riannbarbosa/">
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riannbarbosa&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riannbarbosa&show_icons=true&theme=radical"/>
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riannbarbosa&layout=compact&langs_count=8&theme=omni"/>
 </p>
@@ -18,7 +17,7 @@
   
   
  <div align="center">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="riannbarbosa-           javascript" >
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="riannbarbosa-javascript" >
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="riannbarbosa-C">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="riannbarbosa-c++">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="riannbarbosa-python">
