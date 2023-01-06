@@ -1,7 +1,7 @@
 <h3> Hi there ! :wave: </h3>
 
   ##
- - 🌱 My name's Rian Barbosa, I'm computer science student and a future software engineer from Brazil
+ - 🌱 My name's Rian Barbosa, I'm computer science student, I'm currently working as a software developer intern, and a future software engineer from Brazil
  
 <p align="center">
   <a href="https://github.com/riannbarbosa/">
