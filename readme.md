@@ -2,6 +2,7 @@
 
   ##
  - 🌱 My name's Rian Barbosa, I'm computer science student, I'm currently working as a software developer intern, and a future software engineer from Brazil
+ - I do LeetCode,coding challenges and like coding events
  
 <p align="center">
   <a href="https://github.com/riannbarbosa/">
