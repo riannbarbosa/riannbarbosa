@@ -45,4 +45,9 @@
                      <a href="https://riannbarbosa.github.io/" target="_blank"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="35" >
         
   </div>
+    <hr>
+   <p align="center">
+     My Visitors: <br>
+   <img src="https://profile-counter.glitch.me/riannbarbosa/count.svg" alt = "visitors-count" />
+   </p>
  
